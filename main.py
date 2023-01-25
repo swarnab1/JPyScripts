@@ -9,7 +9,7 @@ from UtilitiesModules import simplecalc as splclc, TempConvert as tmpcvt, fizzbu
     SearchQuery as searchQ, hasher, rndnumprank as rnp, divcheck as divchk, PasswordGenerator as passgen
 
 print(
-    "\u001b[32mWelcome to the JPyScripts!\nThis is a collection of scripts/utilities I made in Python.\n"
+    "Welcome to the JPyScripts!\nThis is a collection of scripts/utilities I made in Python.\n"
     "Type 'help' for more info\n"
     "Code by: @Joshboi || GitHub: github.com/swarnab1 || swarnab1.github.io\n")
 
