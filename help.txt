@@ -1,0 +1,18 @@
+Utilities commands:
+fizzbuzz - FizzBuzz Test
+rndnumprank - Random Number Prank
+simplecalc - Simple Calculator
+divcheck - Divisibility Check Program
+myip - Returns your Public IP Address
+search - Search using Google, Bing or DuckDuckGo
+passgen - A simple password generator
+tempconvert - Temperature Converter (Between Celsius and Fahrenheit)
+hasher - String to MD5, SHA1, SHA256, SHA512 converter
+
+Other commands:
+exit - Exit the program
+cls - Clear Screen
+help - Commands info and list
+pyversion - Returns your Python version
+getos - Returns your Operating System info
+about - About the program
