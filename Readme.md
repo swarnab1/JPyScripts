@@ -7,11 +7,11 @@ Site: swarnab1.github.io<br>
 
 # Note
 You might need to have some modules installed for this to work properly.<br>
-List of python modules used:<br>
-OS<br>
-Requests<br>
-Platform<br>
-HashLib<br>
-String<br>
-Random<br>
-WebBrowser
+## List of python modules used:<br>
+#### OS<br>
+#### Requests<br>
+#### Platform<br>
+#### HashLib<br>
+#### String<br>
+#### Random<br>
+#### WebBrowser
